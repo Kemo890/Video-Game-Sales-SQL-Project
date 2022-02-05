@@ -1,6 +1,5 @@
 /*
--Example of creating a table in SQL, loading data from a CSV file into it, and doing some
-basic EDA.
+-Created a table in MySQL, loaded data from a CSV file into it, and did some basic exploratory data analysis.
 -Completed basic data cleaning before hand by correcting some game names and converting the sales to millions.
 -Dataset set from https://www.kaggle.com/gregorut/videogamesales
 */
