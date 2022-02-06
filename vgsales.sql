@@ -40,7 +40,7 @@ FROM
 GROUP BY publisher
 ORDER BY 6 DESC
 LIMIT 10;
-# Nintendo has the most sales with $1781200000 in sales
+# Nintendo has the most sales with $1,781,200,000 in sales
 
 # Genres by Sales
 SELECT 
