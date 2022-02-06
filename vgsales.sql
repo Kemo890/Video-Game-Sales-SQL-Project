@@ -39,9 +39,9 @@ SELECT
 FROM
     game_sales
 GROUP BY publisher
-ORDER BY 5 DESC
+ORDER BY 6 DESC
 LIMIT 10;
-# EA has the most sales with $1,097,850,000 in sales
+# Nintendo has the most sales with $1781200000 in sales
 
 # Genres by Sales
 SELECT 
@@ -54,7 +54,7 @@ SELECT
 FROM
     game_sales
 GROUP BY genre
-ORDER BY 5 DESC;
+ORDER BY 6 DESC;
 # The #1 genre in the dataset is Action with $1,687,800,000 in global sales
 
 # Global sales by platform
